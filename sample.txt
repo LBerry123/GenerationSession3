@@ -1,1 +1,1 @@
-This is the modified text from the branch and not from main.
+This is the modified text trying to get a merge conflict from the branch and not from main.
