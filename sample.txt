@@ -1,1 +1,2 @@
 merge conflict from main branch
+This is the modified text trying to get a merge conflict from the branch and not from main.
